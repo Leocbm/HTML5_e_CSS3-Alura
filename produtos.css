@@ -4,13 +4,13 @@ header {
 }
 
 .caixa {
-    position: relative; /* a caixa precisa do posicionamento relativo para poder o nav ter posicionamento dentro dela*/
-    width: 940px; /* tamanho padrão da caixa */
-    margin: 0 auto; /* centraliza a caixa (cima baixo 0, esquerda direita automaticas)  */
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
 }
 
 nav {
-    position: absolute; /* position: absolute, eu consigo posicionar meu elemento em qualquer lugar da página. */
+    position: absolute;
     top: 110px;
     right: 0;
 }
@@ -47,7 +47,7 @@ nav a:hover {
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
-    border: 3px solid #000000; /* tamanho estilo e cor */
+    border: 3px solid #000000;
     border-radius: 10px;
 }
 
@@ -78,3 +78,14 @@ nav a:hover {
     margin-top: 10px;
 }
 
+footer {
+    text-align: center;
+    background: url("img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
+}

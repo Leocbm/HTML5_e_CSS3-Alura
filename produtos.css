@@ -1,5 +1,18 @@
 header {
     background: #BBBBBB;
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative; /* a caixa precisa do posicionamento relativo para poder o nav ter posicionamento dentro dela*/
+    width: 940px; /* tamanho padrão da caixa */
+    margin: 0 auto; /* centraliza a caixa (cima baixo 0, esquerda direita automaticas)  */
+}
+
+nav {
+    position: absolute; /* position: absolute, eu consigo posicionar meu elemento em qualquer lugar da página. */
+    top: 110px;
+    right: 0;
 }
 
 nav li {

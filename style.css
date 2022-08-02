@@ -2,6 +2,12 @@ body {
     background: #CCCCCC;
 }
 
+#banner {
+    width: 100%; /* O width é a propriedade que devemos manipular para alterar a largura do elemento. */
+    /* O height é a propriedade que devemos manipular para alterar a altura do elemento. */
+    /* O padding (top, left, right, down) é a propriedade que devemos manipular para alterar o espaço inteiro do elemento. */
+}
+
 h1 {
     text-align: center;
 }

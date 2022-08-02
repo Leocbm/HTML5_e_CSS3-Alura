@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC;
+    
 }
 
 #banner {
@@ -7,6 +7,10 @@ body {
     /* O height é a propriedade que devemos manipular para alterar a altura do elemento. */
     /* O padding (top, left, right, down) é a propriedade que devemos manipular para alterar o espaço inteiro do elemento. */
     /* O margin (top, left, right, down) é a propriedade que devemos manipular para alterar o espaço externo do elemento. */
+}
+
+.principal {
+    background: #CCCCCC;
 }
 
 h1 {
@@ -27,4 +31,12 @@ em strong {
 
 .itens{
     font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }

@@ -123,10 +123,12 @@ form label, form legend {
     font-size: 18px;
     border: none;
     border-radius: 5px;
-    transition: 300ms;
+    transition: 1s all;
     cursor: pointer;
 }
 
 .enviar:hover {
     background: darkorange;
+    transform: scale(1.2);
+    transform: rotate(70deg);
 }

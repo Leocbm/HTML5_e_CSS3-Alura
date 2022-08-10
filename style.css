@@ -156,6 +156,7 @@ td, th {
     text-align: center;
     font-size: 2em; /* 2x o tamanho base */
     margin: 0 0 1em;/* margem proporcional a fonte */
+    clear: left;
 }
 
 .principal p {
@@ -168,6 +169,12 @@ td, th {
 
 .principal em {
     font-style: italic;
+}
+
+.utensilios {
+    width: 120px;
+    float: left;
+    margin: 0 20px 20px 0;
 }
 
 .imagembeneficios {

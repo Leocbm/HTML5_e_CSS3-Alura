@@ -154,7 +154,7 @@ td, th {
     width: 100%;
 }
 
-.titulo-principal {
+.titulo-principal { 
     text-align: center;
     font-size: 2em; /* 2x o tamanho base */
     margin: 0 0 1em;/* margem proporcional a fonte */
@@ -224,6 +224,10 @@ td, th {
 
 .itens:first-child { /* last-child - nth-child(?) -nth-child(2n(pega os pares)) */
     font-weight: bold;
+}
+
+.itens::before {
+    content: "🟊";
 }
 
 .imagem-beneficios {

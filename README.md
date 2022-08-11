@@ -23,7 +23,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Aprendendo os fundamentos do zero ao avançado em HTML e CSS para o desenvolvimento de uma página para Web na formação Front-end da <a href="https://www.alura.com.br/">Alura</a> e criando do zero a página completa da Barbearia Alura.
+  Aprendendo os fundamentos do zero ao avançado em HTML e CSS para o desenvolvimento de uma página para Web através da formação Front-end da <a href="https://www.alura.com.br/">Alura</a> e criando do zero a página completa da Barbearia Alura.
 </p>
 
 ## Funcionalidades

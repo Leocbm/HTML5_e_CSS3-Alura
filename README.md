@@ -128,11 +128,15 @@ cd Desktop/Pasta
 ## Desenvolvedores 
 :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/54343955?v=4" width=115><br><sub>Leonardo Cunha</sub>](https://github.com/Leocbm) |  [<img src="https://avatars.githubusercontent.com/u/54343955?v=4" width=115><br><sub>Leonardo Cunha</sub>](https://github.com/Leocbm) |  [<img src="https://avatars.githubusercontent.com/u/54343955?v=4" width=115><br><sub>Leonardo Cunha</sub>](https://github.com/Leocbm) |
-| :---: | :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/54343955?v=4" width=250><br>](https://github.com/Leocbm)|
+| :---: |
+| [Leonardo Cunha](https://github.com/Leocbm) |
+ [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/leoleo_zen/) [![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/leonardo-cunha-317b67190/)   |
 
 ## Instrutores
 :octocat:
 
-| [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQH3-oM3jB8ytw/profile-displayphoto-shrink_200_200/0/1564936447442?e=1665619200&v=beta&t=nMALhnK8A0yjjMr_gaUlCVxnCbx6TgGgZEOYriY4zQw" width=115><br><sub>Pedro Marins</sub>](https://www.linkedin.com/in/pedromarins/) |  [<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnFDuaYnscdQ/company-logo_200_200/0/1658433175874?e=1668038400&v=beta&t=sI2VRJXheWgNJctiR_Ai11wSl32ooLZZD5HiIWDLkmY" width=115><br><sub>Alura</sub>](https://www.alura.com.br/) |  [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHNUGchMAa-Yw/profile-displayphoto-shrink_200_200/0/1556583729599?e=1665619200&v=beta&t=0HXDVtY01eY3dzifNqXVdooJzVfk7H9daOaYnyZ24ow" width=115><br><sub>Paulo Silveira</sub>](https://www.linkedin.com/in/paulosilveira/) |
-| :---: | :---: | :---: 
+ [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQH3-oM3jB8ytw/profile-displayphoto-shrink_200_200/0/1564936447442?e=1665619200&v=beta&t=nMALhnK8A0yjjMr_gaUlCVxnCbx6TgGgZEOYriY4zQw" width=250><br>](https://www.linkedin.com/in/pedromarins/) |[<img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnFDuaYnscdQ/company-logo_200_200/0/1658433175874?e=1668038400&v=beta&t=sI2VRJXheWgNJctiR_Ai11wSl32ooLZZD5HiIWDLkmY" width=250><br>](https://www.linkedin.com/school/aluracursos/)| [<img src="https://media-exp1.licdn.com/dms/image/C4D03AQHNUGchMAa-Yw/profile-displayphoto-shrink_200_200/0/1556583729599?e=1665619200&v=beta&t=0HXDVtY01eY3dzifNqXVdooJzVfk7H9daOaYnyZ24ow" width=250><br>](https://www.linkedin.com/in/paulosilveira/)
+| :---: | :---: | :---:
+Pedro Marins | Alura | Paulo Silveira
+ [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/opedromarins/) [![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/pedromarins/)   | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/aluraonline/)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/school/aluracursos/) | [![Instagram](https://www.alura.com.br/assets/img/imersao-java/instagram.1655844054.svg)](https://www.instagram.com/paulo_hipster)[![LinkedIn](https://www.alura.com.br/assets/img/imersao-java/linkedin.1655291590.svg)](https://www.linkedin.com/in/paulosilveira)

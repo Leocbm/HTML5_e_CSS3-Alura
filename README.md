@@ -8,6 +8,8 @@
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
+:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação)
+
 :small_blue_diamond: [Objetivos](#objetivos)
 
 :small_blue_diamond: [Pré-requisitos](#pré-requisitos)
@@ -34,6 +36,9 @@
 
 :heavy_check_mark: Parte 4: Avançando no CSS.
 
+## Deploy da Aplicação
+
+> Link do deploy da aplicação com netlify: https://barbearia-alura-leocbm.netlify.app
 
 ## Objetivos
 - `Parte 01`

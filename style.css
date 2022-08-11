@@ -1,3 +1,4 @@
+/* css body e header */
 body {
     font-family: 'Montserrat', sans-serif;
 }
@@ -7,8 +8,6 @@ header {
     padding: 20px 0;
 }
 
-
-/* css da página produtos */
 .caixa {
     position: relative;
     width: 940px;
@@ -37,123 +36,6 @@ nav a {
 nav a:hover {
     color: #C78C19;
     text-decoration: underline;
-}
-
-.produtos {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.produtos li {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-    vertical-align: top;
-    margin: 0 1.5%;
-    padding: 30px 20px;
-    box-sizing: border-box;
-    border: 3px solid #000000;
-    border-radius: 10px;
-}
-
-.produtos li:hover {
-    border-color: #C78C19;
-} 
-
-.produtos li:active {
-    border-color: #088C19;
-}
-
-.produtos li:hover h2 {
-    font-size: 32px;
-}
-
-.produtos h2 {
-    font-size: 30px;
-    font-weight: bold;
-}
-
-.produto-descricao {
-    font-size: 18px;
-}
-
-.produto-preco {
-    font-size: 22px;
-    font-weight: bold;
-    margin-top: 10px;
-}
-
-/* css footer e copyright  */
-footer {
-    text-align: center;
-    background: url("img/bg.jpg");
-    padding: 40px 0;
-}
-
-.copyright {
-    color: #FFFFFF;
-    font-size: 13px;
-    margin-top: 20px;
-}
-
-/* css da página contato */
-.main-contato {
-    width: 940px;
-    margin: 0 auto;
-} 
-
-form{
-    margin: 40px 0;
-}
-form label, form legend {
-    display: block;
-    font-size: 20px;
-    margin-bottom: 10px;
-}
-
-.input-padrao {
-    display: block;
-    margin-bottom: 20px;
-    padding: 10px 25px;
-    width: 50%;
-}
-
-.checkbox {
-    margin: 20px 0;
-}
-
-.enviar {
-    width: 40%;
-    padding: 15px 0;
-    background: orange;
-    color: white;
-    font-weight: bold;
-    font-size: 18px;
-    border: none;
-    border-radius: 5px;
-    transition: 1s all;
-    cursor: pointer;
-}
-
-.enviar:hover {
-    background: darkorange;
-    transform: scale(1.2);
-}
-
-table {
-    margin: 20px 0 40px;
-}
-
-thead {
-    background: #555555;
-    color: white;
-    font-weight: bold;
-}
-
-td, th {
-    border: 1px solid #000000;
-    padding: 8px 15px;
 }
 
 /* css da página inicial */
@@ -226,10 +108,10 @@ td, th {
 }
 
 .itens {
-    line-height: 1.5; /* altura da linha */
+    line-height: 1.5;
 }
 
-.itens:first-child { /* last-child - nth-child(?) -nth-child(2n(pega os pares)) */
+.itens:first-child {
     font-weight: bold;
 }
 
@@ -253,8 +135,127 @@ td, th {
     margin: 2em auto;
 }
 
+/* css da página produtos */
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 15px;
+    box-sizing: border-box;
+    border: 3px solid #000000;
+    border-radius: 10px;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+} 
+
+.produtos li:active {
+    border-color: #088C19;
+}
+
+.produtos li:hover h2 {
+    font-size: 32px;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produto-descricao {
+    font-size: 18px;
+}
+
+.produto-preco {
+    font-size: 22px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* css footer e copyright  */
+footer {
+    text-align: center;
+    background: url("img/bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+/* css da página contato */
+.main-contato {
+    width: 940px;
+    margin: 0 auto;
+} 
+
+form{
+    margin: 40px 0;
+}
+
+form label, form legend {
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    width: 40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
 @media screen and (max-width: 480px) {
-    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video {
+    .caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video, .produtos {
         width: auto;
     }
 
@@ -264,9 +265,29 @@ td, th {
 
     nav {
         position: static;
+        text-align: center;
     }
 
-    .lista-beneficios, .imagem-beneficios {
+    .lista-beneficios, .imagem-beneficios, .imagem-produtos, form {
         width: 100%;
+    }
+
+    .produtos li {
+        display: block;
+        width: auto;
+        margin: 30px;
+    }
+
+    .main-contato {
+        width: auto;
+        margin-left: 3em;
+    }
+
+    .input-padrao {
+        width: 70%;
+    }
+
+    .enviar {
+        width: auto;
     }
 }

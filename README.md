@@ -38,7 +38,10 @@
 
 ## Deploy da Aplicação
 
-> Link do deploy da aplicação com netlify: https://barbearia-alura-leocbm.netlify.app
+> Link do deploy da aplicação com Vercel: https://barbearia-alura-leocbm.vercel.app/
+
+> Imagem Representativa da página
+![image](https://user-images.githubusercontent.com/54343955/185690551-340b770c-d160-4f52-91f0-eb323bf55799.png)
 
 ## Objetivos
 - `Parte 01`
